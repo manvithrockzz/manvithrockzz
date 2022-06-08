@@ -17,7 +17,7 @@ A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kotta m.s.s.j.manvith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kotta m.s.s.j.manvith" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kotta m.s.s.j.manvith"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kotta m.s.s.j.manvith" height="30" width="40" /></a>
 <a href="https://instagram.com/rainbow._.tent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rainbow._.tent" height="30" width="40" /></a>
 </p>
 
